@@ -1,4 +1,4 @@
-# Cafe_API
+# Cafe API
 
 This repository contains a simple Flask application that simulates a Cafe API. The API provides endpoints for managing a list of cafes, including creating, reading, updating, and deleting cafe records from a SQLite database.
 
